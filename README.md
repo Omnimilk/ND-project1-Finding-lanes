@@ -1,8 +1,5 @@
-# ND-project1-Finding-lanes
-Udacity Nanodegree project 1
-# **Finding Lane Lines on the Road** 
 
-Bowen Kuang, bowenk@kth.se
+# **Finding Lane Lines on the Road** 
 
 ---
 
